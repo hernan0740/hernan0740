@@ -1,36 +1,29 @@
-<!--
-**hernan0740/hernan0740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# ```Hey there!, I’m Hernan.```
+# 👋🏻 Hey,
+# I am HERNAN  .. . 
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477sevezcw4rzk7cj67mx6sodt4d4iztv21x5x0suz&rid=giphy.gif&ct=g" width="200" height="180" HSPACE="10" VSPACE="10">
+	 <a href="https://github.com/hernan0740"><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan0740&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
 </div>
-* :godmode: I’m interested in **Programming** and **Soccer**
-* * :feelsgood: How to reach me? 
-* * If you like my repos, you would contact me by _**[e-mail](mailto:hernan0740@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/hern%C3%A1n-chapid/)**_
-<!---
-* :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
-* :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:eichenberger.che@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/alex-d-6037ba160/)**_
---->
+
+
+
+## I am a mechanical enginner and programmer
+
+* How to reach me? 
+* If you like my repos, you would contact me by _**[e-mail](mailto:hernan0740@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/hern%C3%A1n-chapid/)**_
+* 
+
+- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50 HSPACE="10" VSPACE="10">      I also know Java and like coding in Java . 
+
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30 HSPACE="10" VSPACE="10">  I have built some projects and am planning to build some more.<br>
   
 <p align="left">
   <a href="https://github.com/hernan0740"><img width="400" src="https://github-readme-stats.vercel.app/api?username=hernan0740&show_icons=true&theme=gruvbox">
-    
-  <a href="https://github.com/hernan0740"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan0740&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611d0b3869746794d8eeaac2c99b39424536ffd42de&rid=giphy.gif&ct=g" width="200" height="200">
+ 
     
   <a href="https://github.com/hernan0740"><img width="800" src="https://github-profile-trophy.vercel.app/?username=hernan0740&row=1&column=5&theme=gruvbox">
 </p>
@@ -39,7 +32,7 @@ Here are some ideas to get you started:
     
     
     
-## My repos
+
     
 <!-- <p align="left">
  
