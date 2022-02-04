@@ -25,7 +25,7 @@
   <br>
 <p align="left">
   <a href="https://github.com/hernan0740"><img width="600" src="https://github-readme-stats.vercel.app/api?username=hernan0740&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
-  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611d0b3869746794d8eeaac2c99b39424536ffd42de&rid=giphy.gif&ct=g" width="250" height="230">
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611d0b3869746794d8eeaac2c99b39424536ffd42de&rid=giphy.gif&ct=g" width="200" height="200">
  
     
   <a href="https://github.com/hernan0740"><img width="950" src="https://github-profile-trophy.vercel.app/?username=hernan0740&row=1&column=5&theme=gruvbox&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
