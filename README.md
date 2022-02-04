@@ -24,15 +24,15 @@ Here are some ideas to get you started:
   
 <p align="left">
   <a href="https://github.com/alexdeassis7"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexdeassis7&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/alexdeassis7"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdeassis7&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
-  <a href="https://github.com/alexdeassis7"><img width="800" src="https://github-profile-trophy.vercel.app/?username=alexdeassis7&row=1&column=5&theme=gruvbox">
+  <a href="https://github.com/alexdeassis7"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernan0740&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
+  <a href="https://github.com/hernan0740"><img width="800" src="https://https://github-profile-trophy.vercel.app/?username=hernan0740&row=1&column=5&theme=gruvbox">
 </p>
         
 ## My repos
     
 <p align="left">
  
-  <a href="https://github.com/alexdeassis7/MicroservicesSpringBootAngularZuulEureka"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&card_height=300&&repo=MicroservicesSpringBootAngularZuulEureka&langs_count=5&layout=compact&theme=gruvbox">
+  <a href="https://github.com/hernan0740/MicroservicesSpringBootAngularZuulEureka"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&card_height=300&&repo=MicroservicesSpringBootAngularZuulEureka&langs_count=5&layout=compact&theme=gruvbox">
     <a href="https://github.com/alexdeassis7/FlutterUTNjulio2021"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&card_height=300&&repo=FlutterUTNjulio2021&langs_count=5&layout=compact&theme=gruvbox">
   <a href="https://github.com/alexdeassis7/JavaArchitectJulio2021"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=JavaArchitectJulio2021&layout=compact&theme=gruvbox">
   <a href="https://github.com/alexdeassis7/SpringJulioJueVie"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SpringJulioJueVie&langs_count=10&layout=compact&theme=gruvbox">
